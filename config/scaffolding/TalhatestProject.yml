@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/talha-maniar-ibm-2
   gitUsername: talha-maniar-ibm-2
   gitBranch: main
+- name: Punith_KMAT_Salesforce_Sync
+  gitServerName: Tman
+  gitUrl: https://github.com/karthikbm
+  gitUsername: talha-maniar-ibm-2
+  gitBranch: main
