@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TalhatestProject
+  gitServerName: Tman
+  gitUrl: https://github.com/talha-maniar-ibm-2
+  gitUsername: talha-maniar-ibm-2
+  gitBranch: main
